@@ -1,5 +1,3 @@
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* * * * * * * * * * * * * * * * * * * * * * * 
 FIRST-PHOTON IMAGING
 
     
@@ -8,14 +6,12 @@ Ahmed Kirmani, Dheera Venkatraman, Dongeek Shin, Andrea Colaco
 
 Franco N. C. Wong, Jeffrey H. Shapiro, Vivek K Goyal
 
-
 Research Laboratory of Electronics, Massachusetts Institute of Technology
 
 
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-* * * * * * * * * * * * * * * * * * * * * * * 
-
+Paper:
+Science 3 January 2014: 343 (6166), 58-61.Published online 29 November 2013
+***************************************************************************
 
 (C) All copyrights to the code and data belong to the authors listed above.
 The code and data provided is intended for personal use only and cannot be 
